@@ -14,7 +14,7 @@ Do not program the Arduino board when it is connected to the Motor Driver. You h
 2. Motor Driver Shield (L293D) - 1
 3. HC05 Bluetooth Module - 1
 4. Logic Level Converter - 1
-5. 1850 mAh Battery - 2
+5. 18560 mAh Battery - 2
 6. 18650 Battery Case - 1
 7. Push Button Switch - 1
 8. 4 Wheel Car Chassis - 1
@@ -34,10 +34,10 @@ This is a very simple project with a little twist in the circuit and Bluetooth c
 Why do we need to use a motor driver?
 Even though the motors operate at 5V and the Arduino can provide 5V, current and voltage are two different things. The Arduino cannot provide sufficient current to drive the motors, which is why a motor driver is required.
 
-Power Supply
+Power Supply:
 We are using two 18560 batteries in series, which gives a total of 7.4V (3.7V + 3.7V). These batteries power all the electronics in the system: the Arduino, motor driver, and Bluetooth sensor.
 
-Communication between Arduino and HC05 Bluetooth sensor
+Communication between Arduino and HC05 Bluetooth sensor:
 Now comes the tricky part: Arduino operates on 5V logic, while the HC05 Bluetooth sensor operates on 3.3V logic. If any digital pin is connected directly to the pins of the HC05, it could damage the Bluetooth sensor.
 
 Solution: Logic Level Converter
