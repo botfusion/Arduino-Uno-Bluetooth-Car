@@ -80,6 +80,8 @@ We use **two 18560 batteries** in series, providing a total of **7.4V** (3.7V + 
 - Arduino Uno
 - Motor Driver Shield
 - Bluetooth Module
+The push button will help control the power flow from the battery to the motor driver and other components.
+![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/eeacdaf4c2831f9e4c365ec227d9176d667b5ac4/img/bluetooth%20pcb%20design.png)
 
 #### Bluetooth Module Connection
 
