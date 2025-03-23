@@ -11,7 +11,7 @@ Do not program the Arduino board when it is connected to the Motor Driver. You h
 # Equipment list
 
 1. Arduino Uno - 1
-2. Motor Driver Shield - 1
+2. Motor Driver Shield (L293D) - 1
 3. HC05 Bluetooth Module - 1
 4. Logic Level Converter - 1
 5. 1850 mAh Battery - 2
