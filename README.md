@@ -22,3 +22,9 @@ Do not program the Arduino board when it is connected to the Motor Driver. You h
 10. Connecting Wires 
 11. Soldering Iron 
 12. Arduino Car App 
+
+# Picture
+
+![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/6794c1474d2c0675521fa1669cbc279fcc5fd4f1/Top%20view.jpg)  
+
+![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/6794c1474d2c0675521fa1669cbc279fcc5fd4f1/Front%20View.jpg)
