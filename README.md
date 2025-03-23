@@ -25,7 +25,7 @@ Do not program the Arduino board when it is connected to the Motor Driver. You h
 
 # Picture:
 
-![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/6794c1474d2c0675521fa1669cbc279fcc5fd4f1/Top%20view.jpg)  ![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/6794c1474d2c0675521fa1669cbc279fcc5fd4f1/Front%20View.jpg)
+![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/b26562bf89d7ebbb3bf4a2e48c6a4e0ab946f851/img/Front%20View.jpg)  ![Image Alt](https://github.com/botfusion/Arduino-Uno-Bluetooth-Car/blob/b26562bf89d7ebbb3bf4a2e48c6a4e0ab946f851/img/Top%20view.jpg)
 
 # Explanation:
 
