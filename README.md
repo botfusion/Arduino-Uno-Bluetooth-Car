@@ -103,8 +103,6 @@ To connect the **Bluetooth Module**, follow these steps:
 
 ## Bluetooth Configuration:
 
-## Bluetooth Configuration:
-
 Before you start setting up the app, ensure that the **HC-05 Bluetooth module** is properly configured to work with the Arduino. The module comes with default settings that are usually compatible with most smartphones, but in some cases, you may need to adjust the baud rate or pairing settings.
 
 1. **HC-05 Baud Rate**: The default baud rate for the HC-05 module is **9600**. Ensure that the Arduino is programmed to communicate with this baud rate.
