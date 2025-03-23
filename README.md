@@ -38,7 +38,7 @@ Power Supply:
 We are using two 18560 batteries in series, which gives a total of 7.4V (3.7V + 3.7V). These batteries power all the electronics in the system: the Arduino, motor driver, and Bluetooth sensor.
 
 Communication between Arduino and HC05 Bluetooth sensor:
-Now comes the tricky part: Arduino operates on 5V logic, while the HC05 Bluetooth sensor operates on 3.3V logic. If any digital pin is connected directly to the pins of the HC05, it could damage the Bluetooth sensor.
+Now comes the tricky part, Arduino operates on 5V logic, while the HC05 Bluetooth sensor operates on 3.3V logic. If any digital pin is connected directly to the pins of the HC05, it could damage the Bluetooth sensor.
 
 Solution: Logic Level Converter
 To solve this problem, we use a logic level converter to safely interface the 5V logic of the Arduino with the 3.3V logic of the HC05 Bluetooth sensor.
