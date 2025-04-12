@@ -8,20 +8,22 @@ This is a Bluetooth-controlled car based on Arduino UNO. It can be controlled us
 
 Do not program the Arduino board when it is connected to the Motor Driver. You have a risk of damaging your Arduino as well as your computer if your computer is connected to the Arduino.
 
-## Equipment list:
+## Components List
 
-1. Arduino Uno - 1
-2. Motor Driver Shield (L293D) - 1
-3. HC05 Bluetooth Module - 1
-4. Logic Level Converter - 1
-5. 18560 mAh Battery - 2
-6. 18650 Battery Case - 1
-7. Push Button Switch - 1
-8. 4 Wheel Car Chassis - 1
-9. TT Gear Motor - 4
-10. Connecting Wires 
-11. Soldering Iron 
-12. Arduino Car App 
+| No. | Component                    | Quantity |
+|-----|------------------------------|----------|
+| 1   | Arduino Uno                  | 1        |
+| 2   | Motor Driver Shield (L293D)  | 1        |
+| 3   | HC-05 Bluetooth Module       | 1        |
+| 4   | Logic Level Converter        | 1        |
+| 5   | 18650 mAh Battery            | 2        |
+| 6   | 18650 Battery Case           | 1        |
+| 7   | Push Button Switch           | 1        |
+| 8   | 4 Wheel Car Chassis          | 1        |
+| 9   | TT Gear Motor                | 4        |
+| 10  | Connecting Wires             | -        |
+| 11  | Soldering Iron               | -        |
+| 12  | Arduino Car App              | -        |
 
 ## Picture:
 
